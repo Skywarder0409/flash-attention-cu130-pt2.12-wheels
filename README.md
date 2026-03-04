@@ -35,9 +35,8 @@ Install directly via `pip`:
 python -c "import torch; print(torch.__version__)"
 
 # 2. Install the pre-built wheel from GitHub Releases:
-pip install https://github.com/Skywarder0409/flash-attention-cu130-pt2.12-wheels/releases/download/v2.8.3/flash_attn-2.8.3+cu130torch2.12-cp312-cp312-linux_x86_64.whl
+pip install https://github.com/Skywarder0409/flash-attention-cu130-pt2.12-wheels/releases/download/v2.8.3/flash_attn-2.8.3-cp312-cp312-linux_x86_64.whl
 ```
-*(Note: Replace the URL with the actual release asset link depending on the specific wheel version)*
 
 ---
 
@@ -72,9 +71,8 @@ pip install https://github.com/Skywarder0409/flash-attention-cu130-pt2.12-wheels
 python -c "import torch; print(torch.__version__)"
 
 # 2. 直接从 GitHub Releases 远程拉取安装:
-pip install https://github.com/Skywarder0409/flash-attention-cu130-pt2.12-wheels/releases/download/v2.8.3/flash_attn-2.8.3+cu130torch2.12-cp312-cp312-linux_x86_64.whl
+pip install https://github.com/Skywarder0409/flash-attention-cu130-pt2.12-wheels/releases/download/v2.8.3/flash_attn-2.8.3-cp312-cp312-linux_x86_64.whl
 ```
-*(注意：请将具体下载链接替换为您实际上传的 Release Asset URL)*
 
 ---
 
